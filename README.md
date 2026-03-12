@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I'M CURRENTLY WORKING ON  DATA ANALAYSIS    
+- I'M CURRENTLY WORKING ON  Machine Learning and  Deep learing    
 
-- 🌱 I’m currently learning **ML**
-
+  
 - 📫 How to reach me **bisratengda613@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
